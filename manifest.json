@@ -1,0 +1,9 @@
+{
+  "name": "智慧語音防忘助手",
+  "short_name": "語音防忘",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff4b4b",
+  "orientation": "portrait"
+}
